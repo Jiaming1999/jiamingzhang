@@ -5,9 +5,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
-import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
-import Portfolio from './Components/Portfolio';
 
 class App extends Component {
 
@@ -21,14 +19,14 @@ class App extends Component {
           "occupation": "Graduate Student at Univerity of Illinois",
           "description": "First year master student in Computer Science",
           "image": "profilepic.jpg",
-          "bio": "React follower, do some front end work",
+          "bio": "Born in Wuhan, love gym, tennis, cars, games, and anime. Favorite anime: Gundam and RevueStarlight. Currently playing: Apex Legends. Interested in front end developing with Reactjs. Can write some TypeScript as well. Currently learning Java with Springboot and Vuejs",
           "contactmessage": "Here to contact me",
           "email": "qq1104382148@gmail.com",
           "phone": "217-904-4877",
           "address": {
             "street": "This is a secret",
             "city": "U.S.",
-            "state": "Himitsu",
+            "state": "IL",
             "zip": "Eyes only"
           },
           "website": "https://jiaming1999.github.io/jiamingzhang/",
@@ -36,27 +34,27 @@ class App extends Component {
           "social": [
             {
               "name": "facebook",
-              "url": "http://facebook.com/",
+              "url": "https://www.facebook.com/jiaming.zhang.712/",
               "className": "fa fa-facebook"
             },
             {
               "name": "twitter",
-              "url": "http://twitter.com",
+              "url": "https://twitter.com/NerdyJoel",
               "className": "fa fa-twitter"
             },
             {
               "name": "linkedin",
-              "url": "https://www.linkedin.com/",
+              "url": "https://www.linkedin.com/in/jiaming-zhang-06baaa170/",
               "className": "fa fa-linkedin"
             },
             {
               "name": "instagram",
-              "url": "http://instagram.com/",
+              "url": "https://www.instagram.com/jiaming3207/",
               "className": "fa fa-instagram"
             },
             {
               "name": "github",
-              "url": "http://github.com/",
+              "url": "http://github.com/Jiaming1999",
               "className": "fa fa-github"
             }
           ]
@@ -74,21 +72,21 @@ class App extends Component {
               "school": "University Of Illinois Urbana Champaign",
               "degree": "Bachelor in Math and Computer Science",
               "graduated": "April 2021",
-              "description": "Algorithm/Data Structure/Virtual Reality/Augmented Reality"
+              "description": "Algorithm/Data Structure/Virtual Reality/Augmented Reality/Web Development"
             }
           ],
           "work": [
             {
-              "company": "Awesome Design Studio",
-              "title": "Senior UX God ",
-              "years": "March 2010 - Present",
-              "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+              "company": "ScribeAR Research Team",
+              "title": "FrontEnd Developer",
+              "years": "Nov 2019 - May 2021",
+              "description": "Front End Developer, responsible of developing user interaction interface for the Scribe AR glasses web application."
             },
             {
-              "company": "Super Cool Studio",
-              "title": "Junior bug fixer",
-              "years": "March 2007 - February 2010",
-              "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+              "company": "FreeTitle",
+              "title": "FrontEnd Developer",
+              "years": "Sept 2020 - Jan 2021",
+              "description": "Member of Team Front End 2, responsible of developing the static web part of forum of Free Title website."
             }
           ],
           "skills": [
@@ -97,74 +95,44 @@ class App extends Component {
               "level": "60%"
             },
             {
-              "name": "Illustrator",
-              "level": "55%"
+              "name": "Python",
+              "level": "70%"
             },
             {
               "name": "ReactJs",
-              "level": "50%"
-            },
-            {
-              "name": "CSS",
-              "level": "90%"
-            },
-            {
-              "name": "HTML5",
               "level": "80%"
+            },
+            {
+              "name": "JavaScript",
+              "level": "70%"
+            },
+            {
+              "name": "Java",
+              "level": "60%"
             },
             {
               "name": "VueJs",
-              "level": "50%"
+              "level": "40%"
             },
             {
               "name": "MongoDB",
-              "level": "80%"
+              "level": "70%"
             }
           ]
         },
         "portfolio": {
           "projects": [
-            {
-              "title": "Canadian Wanderlust",
-              "category": "My Travel Blog for my post-university travels",
-              "image": "canadian-wanderlust.jpg",
-              "url": "https://www.canadianwanderlust.com"
-            },
-            {
-              "title": "Fury Fighting Gear",
-              "category": "(offline now) A fighting gear company I started",
-              "image": "fury-fighting-gear.jpg",
-              "url": "http://www.timbakerdev.com"
-            },
-            {
-              "title": "Original Thai Food",
-              "category": "Website I built for a restaurant I like in Thailand",
-              "image": "original-thai-food.jpg",
-              "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-              "title": "Resume Website",
-              "category": "A React based resume website template",
-              "image": "resume-website.jpg",
-              "url": "http://www.timbakerdev.com"
-            },
-            {
-              "title": "Smirkspace",
-              "category": "(MVP Only) A React and Meteor based chat University project.",
-              "image": "smirkspace.jpg",
-              "url": "http://www.smirkspace.com"
-            }
           ]
         },
         "testimonials": {
           "testimonials": [
             {
-              "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-              "user": "Kareem Abdul Jabbar"
+              "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+              "user": "Winston Churchill"
             },
             {
-              "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-              "user": "Steve Wozniak... impersonator"
+              "text": "Death is nothing, but to live defeated and inglorious is to die daily.",
+              "user": "Napoleon Bonaparte"
             }
           ]
         }
@@ -183,9 +151,7 @@ class App extends Component {
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
-        <Portfolio data={this.state.resumeData.portfolio} />
         <Testimonials data={this.state.resumeData.testimonials} />
-        <Contact data={this.state.resumeData.main} />
         <Footer data={this.state.resumeData.main} />
       </div>
     );
