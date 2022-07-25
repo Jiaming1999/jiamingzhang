@@ -30,7 +30,7 @@ class App extends Component {
             "zip": "61820"
           },
           "website": "https://jiaming1999.github.io/jiamingzhang/",
-          "resumedownload": "dafaadvs",
+          "resumedownload": "https://drive.google.com/file/d/1DM5rSui4bJH1dXla1gpensxnBUiF4kQA/view?usp=sharing",
           "social": [
             {
               "name": "facebook",
