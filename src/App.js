@@ -15,22 +15,22 @@ class App extends Component {
       foo: 'bar',
       resumeData: {
         "main": {
-          "name": "Jiaming Zhang",
+          "name": "Joel Zhang",
           "occupation": "Graduate Student at Univerity of Illinois",
-          "description": "First year master student in Computer Science",
-          "image": "profilepic.jpg",
-          "bio": "Born in Wuhan, love gym, tennis, cars, games, and anime. Favorite anime: Gundam and RevueStarlight. Currently playing: Apex Legends. Interested in front end developing with Reactjs. Can write some TypeScript as well. Currently learning Java with Springboot and Vuejs",
+          "description": "Master student in Computer Science",
+          "image": "profile.jpeg",
+          "bio": "Born in Wuhan, love gym, tennis, and traveling. Primarily experienced in development with JavaScript, Flow, TypeScript, React, React Native and GraphQL. Also have some experience in full stack development with Python and Java.",
           "contactmessage": "Here to contact me",
           "email": "qq1104382148@gmail.com",
           "phone": "217-904-4877",
           "address": {
-            "street": "This is a secret",
+            "street": "Im not sure yet.",
             "city": "U.S.",
             "state": "IL",
-            "zip": "Eyes only"
+            "zip": "61820"
           },
           "website": "https://jiaming1999.github.io/jiamingzhang/",
-          "resumedownload": "N/A",
+          "resumedownload": "dafaadvs",
           "social": [
             {
               "name": "facebook",
@@ -44,7 +44,7 @@ class App extends Component {
             },
             {
               "name": "linkedin",
-              "url": "https://www.linkedin.com/in/jiaming-zhang-06baaa170/",
+              "url": "https://www.linkedin.com/in/yoshiaki233/",
               "className": "fa fa-linkedin"
             },
             {
@@ -60,13 +60,13 @@ class App extends Component {
           ]
         },
         "resume": {
-          "skillmessage": "I am trying to find a software employer job and in frontend more preferrably. Interested tech: Java with Springboot, JavaScript and TypeScript with React.",
+          "skillmessage": "Currently I am actively seeking for a software engineer job focusing in javascript development on spring 2023. My experience technologies includes: React, React Native, Relay, Flow, JavaScript and TypeScript.",
           "education": [
             {
               "school": "University Of Illinois Urbana Champaign",
               "degree": "Masters in Computer Science",
               "graduated": "Decemeber 2022",
-              "description": "Topics in flaky testing/Distributed System/Networking"
+              "description": "Python opensource flaky testing/Distributed System/Networking/User Interaction"
             },
             {
               "school": "University Of Illinois Urbana Champaign",
@@ -77,33 +77,41 @@ class App extends Component {
           ],
           "work": [
             {
-              "company": "ScribeAR Research Team",
-              "title": "FrontEnd Developer",
-              "years": "Nov 2019 - May 2021",
-              "description": "Front End Developer, responsible of developing user interaction interface for the Scribe AR glasses web application."
+              "company": "Meta",
+              "title": "Software Development - Front End Engineer Intern",
+              "years": "May 2022 - Aug 2022",
+              "description": " As a Front End Engineer which shares the responsibilities of Software Engineer in Meta, I have spent 12 weeks developing a tool for developers involved in the new facebook.com development. Letting engineers have a better debug and development experience is my first prioritized mission."
             },
             {
-              "company": "FreeTitle",
-              "title": "FrontEnd Developer",
-              "years": "Sept 2020 - Jan 2021",
-              "description": "Member of Team Front End 2, responsible of developing the static web part of forum of Free Title website."
-            }
+              "company": "Univerisity of Illinois Urbana Champiagn Undergrad Research Assistant",
+              "title": "Software Development - Front End Engineer",
+              "years": "Nov 2019 - May 2021",
+              "description": "The ScribeAR project team was led by Dr. Lawrance Angrave. The scope of the final product was to develop an AR glasses application to capture human speech in real-time and automatically transfer speech into subtitles on the AR glasses. My job is to develop an user interface for the project using React.js."
+            },
           ],
           "skills": [
             {
-              "name": "Git",
-              "level": "60%"
+              "name": "Flow",
+              "level": "80%"
+            },
+            {
+              "name": "JavaScript",
+              "level": "80%"
+            },
+            {
+              "name": "TypeScript",
+              "level": "70%"
             },
             {
               "name": "Python",
               "level": "70%"
             },
             {
-              "name": "ReactJs",
+              "name": "React",
               "level": "80%"
             },
             {
-              "name": "JavaScript",
+              "name": "React Native",
               "level": "70%"
             },
             {
