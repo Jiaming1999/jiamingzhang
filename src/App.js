@@ -18,19 +18,19 @@ class App extends Component {
           "name": "Joel Zhang",
           "occupation": "Graduate Student at Univerity of Illinois",
           "description": "Master student in Computer Science",
-          "image": "profile.jpeg",
-          "bio": "Born in Wuhan, love gym, tennis, and traveling. Primarily experienced in development with JavaScript, Flow, TypeScript, React, React Native and GraphQL. Also have some experience in full stack development with Python and Java.",
+          "image": "",
+          "bio": "Former Front-End Engineer Intern @Facebook, like to exploring JavaScript devlopment and Game Development.",
           "contactmessage": "Here to contact me",
           "email": "qq1104382148@gmail.com",
           "phone": "217-904-4877",
           "address": {
-            "street": "Im not sure yet.",
+            "street": "Add me on LinkedIn: https://www.linkedin.com/in/yoshiaki233/",
             "city": "U.S.",
             "state": "IL",
-            "zip": "61820"
+            "zip": "61801"
           },
           "website": "https://jiaming1999.github.io/jiamingzhang/",
-          "resumedownload": "https://drive.google.com/file/d/1DM5rSui4bJH1dXla1gpensxnBUiF4kQA/view?usp=sharing",
+          "resumedownload": "https://drive.google.com/file/d/1FN9C5LwC_ID9YnPRCD-9jstFOywptDlk/view?usp=sharing",
           "social": [
             {
               "name": "facebook",
@@ -78,9 +78,9 @@ class App extends Component {
           "work": [
             {
               "company": "Meta",
-              "title": "Software Development - Front End Engineer Intern",
+              "title": "Software Engineer Intern - Front End",
               "years": "May 2022 - Aug 2022",
-              "description": " As a Front End Engineer which shares the responsibilities of Software Engineer in Meta, I have spent 12 weeks developing a tool for developers involved in the new facebook.com development. Letting engineers have a better debug and development experience is my first prioritized mission."
+              "description": " As a Front End Engineer in Meta, I have spent 12 weeks developing a tool for developers involved in the new facebook.com development. Letting engineers have a better debug and development experience is my first prioritized mission."
             },
             {
               "company": "Univerisity of Illinois Urbana Champiagn Undergrad Research Assistant",
