@@ -21,8 +21,8 @@ class App extends Component {
           "image": "",
           "bio": "Former Front-End Engineer Intern @Facebook, like to exploring JavaScript devlopment and Game Development.",
           "contactmessage": "Here to contact me",
-          "email": "qq1104382148@gmail.com",
-          "phone": "217-904-4877",
+          "email": "--",
+          "phone": "--",
           "address": {
             "street": "Add me on LinkedIn: https://www.linkedin.com/in/yoshiaki233/",
             "city": "U.S.",
